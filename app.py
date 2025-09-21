@@ -10,7 +10,7 @@ import os
 from datetime import datetime
 from markdown import markdown
 import json
-from serpapi.google_search import GoogleSearch
+from serpapi import GoogleSearch
 import wikipedia
 import requests
 from bs4 import BeautifulSoup
