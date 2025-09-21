@@ -1,0 +1,11 @@
+yfinance
+pandas
+plotly
+gradio
+groq
+markdown
+serpapi
+wikipedia
+requests
+beautifulsoup4
+lxml
